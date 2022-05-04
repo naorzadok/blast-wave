@@ -1,0 +1,42 @@
+with oblique shock
+
+2 compression + heat addition
+!!!length units in centimeters!!!
+cell length is [cm] - 7.004300000052134  cell width is[cm]  3.509287737616447 theta is 26.61174198304688
+r0 is [cm] - 0.25755477962984197 new kernel size [cm] 0.2575547796502856
+D/D0 at last point 0.7995841584355544 
+
+3 compression
+!!!length units in centimeters!!!
+cell length is [cm] - 7.004300000052134  cell width is[cm]  3.3760168962872927 theta is 25.733696955979095
+r0 is [cm] - 0.25755477962984197 new kernel size [cm] 0.2575547796502856
+D/D0 at last point 0.7995841584355544 
+
+3 compression + heat addition
+!!!length units in centimeters!!!
+cell length is [cm] - 7.004300000052134  cell width is[cm]  2.3796944238277695 theta is 18.76507155346388
+r0 is [cm] - 0.25755477962984197 new kernel size [cm] 0.2575547796502856
+D/D0 at last point 0.7995841584355544 
+
+######################################################
+
+with normal shock
+
+2 compression + heat addition
+!!!length units in centimeters!!!
+cell length is [cm] - 7.004300000052134  cell width is[cm]  3.129782884536527 theta is 24.076875865274744
+r0 is [cm] - 0.25755477962984197 new kernel size [cm] 0.2575547796502856
+D/D0 at last point 0.7995841584355544 
+
+3 compression
+!!!length units in centimeters!!!
+cell length is [cm] - 7.004300000052134  cell width is[cm]  3.651912318034801 theta is 27.536702055573606
+r0 is [cm] - 0.25755477962984197 new kernel size [cm] 0.2575547796502856
+D/D0 at last point 0.7995841584355544 
+
+3 compression + heat addition
+!!!length units in centimeters!!!
+cell length is [cm] - 7.004300000052134  cell width is[cm]  2.9509855855862814 theta is 22.846206014744507
+r0 is [cm] - 0.25755477962984197 new kernel size [cm] 0.2575547796502856
+D/D0 at last point 0.7995841584355544 
+########################################################

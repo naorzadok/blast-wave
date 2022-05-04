@@ -1,0 +1,38 @@
+2022-04-26 18:10:13.643319
+!!!length units in centimeters!!!
+cell length is [cm] - 12.518495618589824 cell width is [cm] 7.2867224691760395 cell angle is [deg] 30.202680386140837
+od is 1.6 r0 is [cm] - 0.7719470555684919 
+
+2022-04-26 18:10:13.724477 eff2 
+
+!!!length units in centimeters!!!
+cell length is [cm] - 16.599991277750362 cell width is [cm] 9.662465294593352 cell angle is [deg] 30.202680390966712
+od is 1.6 r0 is [cm] - 1.0236305370847663 
+
+2022-04-26 18:10:13.802828 eff3 
+
+!!!length units in centimeters!!!
+cell length is [cm] - 17.701648061039748 cell width is [cm] 10.303713848333134 cell angle is [deg] 30.202680385703765
+od is 1.6 r0 is [cm] - 1.0915636762884144 
+
+2022-04-26 18:10:13.882341 eff4 
+
+!!!length units in centimeters!!!
+cell length is [cm] - 24.51933023924129 cell width is [cm] 14.272126621538495 cell angle is [deg] 30.20268038561964
+od is 1.6 r0 is [cm] - 1.5119727927943867 
+
+2022-04-26 18:10:13.959162 eff6 
+
+!!!length units in centimeters!!!
+cell length is [cm] - 32.528920246918474 cell width is [cm] 18.934320956514448 cell angle is [deg] 30.20268037288244
+od is 1.6 r0 is [cm] - 2.0058803346431824 
+
+2022-04-26 18:10:14.040978 eff8 
+
+!!!length units in centimeters!!!
+cell length is [cm] - 41.04823985411227 cell width is [cm] 23.89321694647437 cell angle is [deg] 30.202680385588533
+od is 1.6 r0 is [cm] - 2.531220112693466 
+
+2022-04-26 18:10:14.126549 eff10 
+
+[7.2867224691760395, 9.662465294593352, 10.303713848333134, 14.272126621538495, 18.934320956514448, 23.89321694647437]

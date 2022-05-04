@@ -1,0 +1,59 @@
+2022-02-09 13:16:48.029033
+going in
+1.6 6034726.4872716395 2.9501039423235493 9.448414387793777
+1.7 6812640.448521498 3.0463245319268806 10.038940287030886
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+      converged: False
+           flag: 'convergence error'
+ function_calls: 52
+     iterations: 50
+           root: nan
